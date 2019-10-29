@@ -1,0 +1,9 @@
+/*style do form */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html,body{
+	background:url(..//imagens/capa2.jpg);
+
+}
